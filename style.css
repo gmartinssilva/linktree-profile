@@ -1,5 +1,5 @@
 body {
-    background-color: slateblue;
+    background: linear-gradient(to right, slateblue, lightblue);
     color: white;
     font-family: "Trebuchet MS";
     text-align: center;
@@ -23,4 +23,11 @@ a {
     text-align: center;
     margin: 10px;
     color: slateblue;
+    text-decoration: none;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  }
+
+  a:hover {
+    color: lightblue;
+    background-color: slateblue;
   }
