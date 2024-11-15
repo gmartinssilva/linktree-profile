@@ -7,9 +7,9 @@
 
 Link para utilizar o projeto: [Linktree Profile](https://linktreeprofilegabrielmartinssilva.netlify.app/)
 
-Linktree Profile é um projeto que vou iniciado pelas atividades no curso do [Mimo](https://mimo.org/).
+Linktree Profile é um projeto que foi iniciado pelas atividades no curso do [Mimo](https://mimo.org/).
 
-A aplicação consiste em um cartão de visita do meu perfil, enquando profissional de tecnologia, com os principais contatos e projetos associados a mim.
+A aplicação consiste em um cartão de visita do meu perfil, enquanto profissional de tecnologia, com os principais contatos e projetos associados a mim.
 
 
 
